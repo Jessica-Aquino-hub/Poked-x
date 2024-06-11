@@ -1,11 +1,11 @@
 @font-face {
     font-family:oxanium ;
-    src: url(/fonte/Oxanium-Light.ttf);
+    src: url(../fonte/Oxanium-Regular.ttf);
 }
 
 @font-face {
     font-family:oxanium grosso ;
-    src: url(/fonte/Oxanium-Bold.ttf);
+    src: url(../fonte/Oxianium-Bold.ttf);
 }
 
 *{
